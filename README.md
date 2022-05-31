@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/72292920/171181702-c3dacc27-6dc6-4a0a-
 4. Delete With Drag & Drop.
 
 
-****To Understand More You Can See The Index.html, Css  & JS Files. 📂****
+****To Understand More You Can See The Index.ejs, app.js and Css  & JS Files. 📂****
 
 ## Contributing 🖋️
 XDToDo is a free and open source library, and we appreciate any help you're willing to give - whether it's fixing bugs, improving documentation, or suggesting new features. Feel Free To Contributing. 💙
